@@ -8,7 +8,7 @@
 
 unsigned char dest_mac[]="\x08\x00\x27\xd6\xd7\x87";
 unsigned char data[64];
-unsigned char c[2]'
+unsigned char c[2];
 int handle,packet_len,i;
 unsigned char e[200];
 unsigned char from_mac[6]; //source mac
